@@ -1,0 +1,12 @@
+faker
+flask
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+# surprise
+# scikit-surprise
+# lightfm
+implicit
