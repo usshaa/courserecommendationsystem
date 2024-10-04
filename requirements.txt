@@ -10,3 +10,5 @@ plotly
 # scikit-surprise
 # lightfm
 implicit
+gunicorn
+whitenoise
